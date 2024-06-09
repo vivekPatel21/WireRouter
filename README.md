@@ -17,12 +17,12 @@ If you want to try this out for yourself?
 All you need to do is put in a .input file and run it through the test to see it do it's job and solve it.
 And you need to configure the input file, like so:
 
-`3
-3
-0
-2
-0 0 0 2
-1 1 2 2`
+`3 \n
+3 \n
+0 \n
+2 \n
+0 0 0 2 \n
+1 1 2 2 \n`
 
 **PLEASE NOTE THAT WHATEVER YOU MAKE IS ACTUALLY FEASABLE FOR A BETTER RESULT, OTHERWISE YOU WILL GET THE ERROR RESULT** :exclamation:
 
