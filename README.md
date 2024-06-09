@@ -11,4 +11,26 @@ The program uses a Breaths-First Search in order to get the initial results, and
 
 ## Try Yourself
 
-If you want to try this out for yourself 
+If you want to try this out for yourself?
+
+
+All you need to do is put in a .input file and run it through the test to see it do it's job and solve it.
+And you need to configure the input file, like so:
+
+3
+
+
+3
+
+
+0
+
+
+2
+
+
+0 0 0 2
+
+
+1 1 2 2
+
