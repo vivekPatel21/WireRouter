@@ -19,18 +19,13 @@ And you need to configure the input file, like so:
 
 3
 
-
 3
-
 
 0
 
-
 2
 
-
 0 0 0 2
-
 
 1 1 2 2
 
