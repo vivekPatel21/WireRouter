@@ -35,6 +35,6 @@ The first line in that code block is going to be the amount of rows. Which in th
 
 The second line in that code block is going to be the amount of columns. Which in this case is also 3.
 
-The third line is going to denote the amount of obstacles that you have, every line after this one is going to be the obstacle path, which is going to have a start coordinate (x,y) and end coordinate (x,y) in the form x_1 y_1 x_2 y_2.
+The third line is going to denote the amount of obstacles that you have, every line after this one is going to be the obstacle path, which is going to have a start coordinate (x,y) and end coordinate (x,y) in the form [x_1, y_1, x_2, y_2].
 
 The line after those coordinate lines are going to be the points that you want to connect, using the same format as the obstacles.
